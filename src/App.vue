@@ -8,4 +8,6 @@
   </p>
 </template>
 
-<style scoped></style>
+<style>
+@import "tailwindcss";
+</style>
