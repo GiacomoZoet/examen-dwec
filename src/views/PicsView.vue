@@ -1,8 +1,8 @@
 <template>
-  
+<h1>c</h1>
 </template>
 
-<script>
+<script setup>
 
 </script>
 
